@@ -37,7 +37,7 @@ python monitor.py
 ```
 
 ## Testing
-- Use the `test_samples/` folder to run safe sample keylogger scripts for monitoring tests.
+- Use the `test samples/` folder to run safe sample keylogger scripts for monitoring tests.
 - Logs will display alerts for any matching suspicious activity.
 
 
