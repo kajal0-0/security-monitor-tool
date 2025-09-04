@@ -1,5 +1,5 @@
 
-# Python SIEM-like Security Monitoring Tool
+# Security Monitoring Tool
 
 ## Notes
 - This project is **for educational purposes only**.
@@ -18,8 +18,8 @@ A Python-based SIEM-like tool to monitor system processes, network connections, 
 ## Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/python-siem-monitor.git
-cd python-siem-monitor
+git clone https://github.com/<your-username>/security-monitor-tool.git
+cd security-monitor-tool
 ```
 2. Create a virtual environment (optional but recommended):
 ```bash
